@@ -42,7 +42,7 @@ public class WeatherApp {
 
 
 	private JFrame createFrame() {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub WeatherApp
 		
 		JFrame frame = new JFrame("Weather");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
